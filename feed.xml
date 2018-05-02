@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Papers We Love</title>
+  <subtitle>A repository of academic computer science research papers and a community who loves reading them.</subtitle>
+  <id>http://papers-we-love.github.io/</id>
+  <link href="http://papers-we-love.github.io/"/>
+  <link href="http://papers-we-love.github.io/feed.xml" rel="self"/>
+  <updated>2018-04-30T20:00:00-04:00</updated>
+  <author>
+    <name>Papers We Love</name>
+  </author>
+  <entry>
+    <title>May Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/news/may-meetups/"/>
+    <id>http://papers-we-love.github.io/2018/news/may-meetups/</id>
+    <published>2018-04-30T20:00:00-04:00</published>
+    <updated>2018-05-02T10:05:25-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for May across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 5/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/249983081/"&gt;Improving predictions of hydrological low-flow indices using machine learning&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 5/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/249903928/"&gt;PWL #43: Paxos from the ground up&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 5/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/246883509/"&gt;A Categorical Theory of Patches&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rio de Janeiro 5/7&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-rio-de-janeiro/events/249419203/"&gt;PWL #12: Is there a need for fuzzy logic?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  5/14&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/245860299/"&gt;Ben Linsay on HyperLogLog&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 5/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/250133821/"&gt;May: Immutability Changes Everything!&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Belfast 5/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Belfast/events/249902791/"&gt;Structure and Interpretation of Computer Programs, Chapters I&amp;amp;II&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rio de Janeiro  5/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-rio-de-janeiro/events/249975020/"&gt;PWL #13: Training Very Deep Networks&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Braga 5/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Porto/events/248727184/"&gt;PWL #04 :: Knee Deep Into P2P&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arlington 5/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/248810035/"&gt;Parallel Computing and Political Redistricting&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Amsterdam 5/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-amsterdam/events/250332594/"&gt;Resilient Distributed Datasets&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chicago 5/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chicago/events/248036049/"&gt;Module Systems&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 5/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/248771447/"&gt;Brian Davis: The Hallmarks of Cancer by Hanahan and Weinberg&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 5/31&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/249287324/"&gt;Hold the date for May PWL &lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>April Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/news/april-meetups/"/>
+    <id>http://papers-we-love.github.io/2018/news/april-meetups/</id>
+    <published>2018-03-31T20:00:00-04:00</published>
+    <updated>2018-04-30T22:05:23-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for April across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rio de Janeiro 4/2&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-rio-de-janeiro/events/248454018/"&gt;PWL #10: Everything You Always Wanted to Know About Synchronization&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 4/3&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/249262759/"&gt;A Survey of Techniques and Results&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Toronto 4/4&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Toronto/events/248191682/"&gt;#26 Victor Kofia on Manual for Using Homomorphic Encryption for Bioinformatics&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Kyiv 4/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Kyiv/events/248836089/"&gt;Papers We Love Kyiv, Spring 2018&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 4/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/248119134/"&gt;PWL #42: Blossom V and NL2Bash&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 4/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/246531818/"&gt;Bitcoin: A Peer-to-Peer Electronic Cash System&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 4/12&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/249142125/"&gt;Software Design X-Rays: Fix Technical Debt with Behavioral Code Analysis&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Belfast 4/14&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Belfast/events/246836229/"&gt;Book Club - 97 Things Every Programmer Should Know, Part II&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rio de Janeiro 4/16&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-rio-de-janeiro/events/248908059/"&gt;PWL #11: Software configuration management&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 4/18&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/249230493/"&gt;April: Modelling Network Traffic using Game Theory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 4/18&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/249597327/"&gt;Bohdan Orlov: "Do MVC like it’s 1979"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chicago 4/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chicago/events/248036038/"&gt;Modules Systems (@ WeWork Kinzie)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  4/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/246885115/"&gt;Libby Kent on Ethereum: The World Computer (2013)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 4/23&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/249287318/"&gt;David Calavera on The QUIC Transport Protocol&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Madrid 4/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Madrid/events/249534461/"&gt;A tour around the functional programming world&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Porto 4/24&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Porto/events/248728411/"&gt;PWL #03 :: Things you should know about Database Storage and Retrieval&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Edifici B6 4/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bcn/events/249591640/"&gt;Expander graphs and applications&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Fairfax 4/25&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/245783730/"&gt;Long Short-Term Memory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 4/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/250056499/"&gt;Processing.js and Software Design X-Rays&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Montréal 4/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Montreal/events/249262492/"&gt;"Attention-Based Recurrent Neural Network Models […]"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 4/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/248507449/"&gt;Josh Maletz: Life Beyond Distributed Transactions by Pat Helland&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 4/30&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/249746024/"&gt;Collective "Problem-Solving" in the History of Music: The Case of the Camerata&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>March Meetups</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/news/march-meetups/"/>
+    <id>http://papers-we-love.github.io/2018/news/march-meetups/</id>
+    <published>2018-02-28T19:00:00-05:00</published>
+    <updated>2018-03-31T22:05:24-04:00</updated>
+    <author>
+      <name>Joshua</name>
+    </author>
+    <content type="html">&lt;p&gt;We have another great line-up of meet-ups scheduled for March across a number of our chapters:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/248083694/"&gt;Reflections on Trusting Trust&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Seattle 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Seattle/events/247794436/"&gt;PWL #41: Spectre and Meltdown&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Diego 3/1&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-San-Diego/events/246883503/"&gt;AlphaGo: Mastering the game of Go with deep neural networks and tree search&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rio de Janeiro  3/5&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-rio-de-janeiro/events/247525162/"&gt;PWL #8: Bitcoin: A Peer-to-Peer Electronic Cash System&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chattanooga 3/6&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chattanooga/events/248197206/"&gt;Using Vectors to Reduce Neural Net Complexity&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Belfast 3/10&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Belfast/events/246836161/"&gt;Book Club - 97 Things Every Programmer Should Know&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Chicago 3/10&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Chicago/events/247605508/"&gt;The Computational Lambda Calculus And Monads &lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Columbus 3/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Columbus/events/248687129/"&gt;John Carmack Tech Talk with UMKC-SCE&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Nea Ionia 3/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Athens/events/248536934/"&gt;Spyros Anastasopoulos on Principled Design of the Modern Web Architecture&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;London 3/15&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-London/events/248467200/"&gt;Nicola Mometto on "The Kanren family of languages, a deep dive in μKanren"&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Rio de Janeiro  3/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-rio-de-janeiro/events/247973395/"&gt;PWL #9: Why Functional Programming Matters&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Saint Louis 3/19&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-in-saint-louis/events/248469273/"&gt;Beating Floating Point at its Own Game: Posit Arithmetic&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Barcelona 3/21&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-bcn/events/248431744/"&gt;Why the Greedy algorithm works?&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Berlin 3/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Berlin/events/248602838/"&gt;PWL Bln: The Synthesis of Complex Audio Spectra by Means of Frequency Modulation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Porto 3/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Porto/events/248379987/"&gt;March :: Papers We Love #02&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Denver 3/22&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Denver/events/247387813/"&gt;Thomas Betts: Tidy Data by Hadley Wickham&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Vienna 3/26&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-Vienna/events/247662533/"&gt;March: Game Theory&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;New York  3/28&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love/events/246900563/"&gt;Bonnie Eisenman on Multiphase Numerical Modeling… for Jigsaw Puzzle Generation&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Arlington 3/28&lt;/strong&gt;: &lt;a href="https://www.meetup.com/Papers-We-Love-DC-NoVA/events/247327511/"&gt;Regression For Image Binarization Under Heavy Noises and Nonuniform Background&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;San Francisco 3/29&lt;/strong&gt;: &lt;a href="https://www.meetup.com/papers-we-love-too/events/248613430/"&gt;Cathie Yun on Bulletproofs: Short Proofs for Confidential Transactions and More&lt;/a&gt;
+ &lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to give special thanks to our Platinum sponsor &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt;. Join us in St. Louis for &lt;a href="http://pwlconf.org/"&gt;PWLConf 2017&lt;/a&gt;!&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Suz Hinton on Accessible images (AIMS)</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/suz-hinton-accessible-algorithms/"/>
+    <id>http://papers-we-love.github.io/2018/video/suz-hinton-accessible-algorithms/</id>
+    <published>2018-02-14T19:00:00-05:00</published>
+    <updated>2018-03-29T06:46:36-04:00</updated>
+    <author>
+      <name>Andrew Gross</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/iBo2ITouiG8" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---february-15-2018"&gt;New York - February 15, 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/245856629/"&gt;https://www.meetup.com/papers-we-love/events/245856629/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://link.springer.com/article/10.1007%2Fs10209-017-0607-z"&gt;Accessible Images (AIMS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://speakerdeck.com/paperswelove/suz-hinton-on-accessible-images-aims"&gt;Suz Hinton on Accessible images (AIMS)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="https://www.mixcloud.com/paperswelove/suz-hinton-on-accessible-images-aims/"&gt;Suz Hinton on Accessible images (AIMS)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;In my latest experimentations in 'Guerilla Accessibility,' I stumbled upon this paper a mere two weeks after publication and was excited about the explorations in it. The ideas built upon an unlikely hero of the anti-surveillance field delighted me. There are wide implementation gaps that remain unaddressed in this paper, and I took liberty on these when implementing the algorithms. I'll be sharing both the triumphs and pitfalls of this proposed technique of improving the accessibility of online web content.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Suz Hinton (http://noopkat.com/) (@noopkat (https://twitter.com/noopkat)) works in developer relations at Microsoft. Prior to her current role, Suz was a senior front-end developer at companies such as Kickstarter and Zappos. She’s an avid open source contributor, working in robotics, accessibility, and creative coding. She enjoys implementing hardware drivers in high level languages just because she can.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;mini=1&amp;amp;feed=%2Fpaperswelove%2Fsuz-hinton-on-accessible-images-aims%2F" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/eeae295947ac470aa110f435dbd3e210" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+  &lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>Hannes Frederic Sowa on BBR: Congestion-Based Congestion Control</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2018/video/hannes-frederic-sowa-bbr-congestion-control/"/>
+    <id>http://papers-we-love.github.io/2018/video/hannes-frederic-sowa-bbr-congestion-control/</id>
+    <published>2018-01-30T19:00:00-05:00</published>
+    <updated>2018-03-28T17:07:48-04:00</updated>
+    <author>
+      <name>Andrew Gross</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/__aWbKC7EN8" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---january-31st-2018"&gt;New York - January 31st. 2018&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/246848117/"&gt;https://www.meetup.com/papers-we-love/events/246848117/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="https://cacm.acm.org/magazines/2017/2/212428-bbr-congestion-based-congestion-control/fulltext"&gt;BBR: Congestion-Based Congestion Control&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://speakerdeck.com/paperswelove/hannes-frederic-sowa-on-bbr-congestion-based-congestion-control"&gt;Hannes Frederic Sowa on "BBR: Congestion-Based Congestion Control"&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="https://www.mixcloud.com/paperswelove/hannes-frederic-sowa-on-bbr-congestion-based-congestion-control/"&gt;Hannes Frederic Sowa on "BBR: Congestion-Based Congestion Control"&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;TCP congestion control has a large impact on perceived network performance (especially in terms of bandwidth and latency) and thus the Internet. Two major categories of congestion control algorithms had been explored, those using packet loss or packet delay feedback. Due to historic developments (and the development of packet switching hardware), packet-loss congestion control algorithms are commonly used today. We will discuss a congestion control scheme published by Google in 2017.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;Hannes Frederic Sowa recently joined &lt;a href="http://backtrace.io"&gt;http://backtrace.io&lt;/a&gt; , and is onsite in New York for a month. Normally he resides in Zurich, Switzerland. Before switching jobs, he worked on the Linux Kernel networking stack focusing on IPv6. Hannes interest in higher level languages has recently been rebooted. During off-time and when not reading, he enjoys spontaneous trips with minimal luggage or crashing flight simulators.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;mini=1&amp;amp;feed=%2Fpaperswelove%2Fhannes-frederic-sowa-on-bbr-congestion-based-congestion-control%2F" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/a9b03daab06d4a71b9bcac8a52d7c418" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+  <entry>
+    <title>David Ashby on SHA256</title>
+    <link rel="alternate" href="http://papers-we-love.github.io/2017/video/david-ashby-shamwow/"/>
+    <id>http://papers-we-love.github.io/2017/video/david-ashby-shamwow/</id>
+    <published>2017-12-05T19:00:00-05:00</published>
+    <updated>2018-03-11T19:58:28-04:00</updated>
+    <author>
+      <name>Andrew Gross</name>
+    </author>
+    <content type="html">&lt;iframe class="video" width="560" height="315" src="https://www.youtube.com/embed/KWH7HmvmQ6o" frameborder="0" allowfullscreen=""&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h2 id="new-york---december-6-2017"&gt;New York - December 6, 2017&lt;/h2&gt;
+
+&lt;hr /&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;strong&gt;Meetup:&lt;/strong&gt; &lt;a href="https://www.meetup.com/papers-we-love/events/245275162/"&gt;https://www.meetup.com/papers-we-love/events/245275162/&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Paper:&lt;/strong&gt; &lt;a href="http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf"&gt;Secure Hash Standard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Slides:&lt;/strong&gt; &lt;a href="https://speakerdeck.com/paperswelove/david-ashby-on-sha256"&gt;David Ashby on SHA256&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;Audio:&lt;/strong&gt; &lt;a href="https://www.mixcloud.com/paperswelove/camilo-aguilar-on-the-rsync-algorithm/"&gt;David Ashby on SHA256&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Description&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;While most of us use hash functions on a daily basis, few people can say that they truly understand what’s actually going on when they call SHA2("hello world"). Even fewer can say they’ve bothered to implement the function themselves, considering every introduction to cryptography starts off with a big warning saying to never, ever implement cryptographic primitives and just use vetted libraries due to the security implications. Of course, that important warning didn’t stop me from digging into the &lt;a href="http://nvlpubs.nist.gov/nistpubs/FIPS/NIST.FIPS.180-4.pdf"&gt;FIPS 180-4 spec&lt;/a&gt; to scratch the itch to understand how exactly it works, and along the way get a much better intuition about what bitwise operators actually do, what a bit rotation is, and why hex notation actually matters.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Bio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://twitter.com/alazyreader"&gt;David Ashby&lt;/a&gt; is a self-taught programmer and systems engineer who sometimes spends his weekends implementing hash functions in high-level languages. He also helps organize the meetup, but no nepotism was to blame for the existence of this presentation.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Audio&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe width="100%" height="60" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&amp;amp;mini=1&amp;amp;feed=%2Fpaperswelove%2Fcamilo-aguilar-on-the-rsync-algorithm%2F" frameborder="0"&gt;&lt;/iframe&gt;
+
+&lt;p&gt;&lt;strong&gt;Slides&lt;/strong&gt;&lt;/p&gt;
+
+&lt;iframe class="video" allowfullscreen="true" allowtransparency="true" frameborder="0" height="596" mozallowfullscreen="true" src="//speakerdeck.com/player/c7c8df2206074d83b3d18fcba3287328" style="border:0; padding:0; margin:0; background:transparent;" webkitallowfullscreen="true" width="710"&gt;&lt;/iframe&gt;
+
+&lt;hr /&gt;
+
+&lt;p style="display: flex; flex-direction: row; justify-content: center; align-items: center;"&gt;
+&lt;a href="https://www.twosigma.com/"&gt;&lt;img src="/images/TwoSigma_RGB.jpg" alt="TwoSigma" title="TwoSigma - Platinum Sponsor of Papers We Love NYC" style="width: 200px; margin: 0 1em 0 0;" /&gt;&lt;/a&gt; &lt;span style="flex: 1;"&gt;The &lt;strong&gt;New York Chapter&lt;/strong&gt; would like to thank &lt;a href="https://www.twosigma.com"&gt;TwoSigma&lt;/a&gt; for helping to make this meetup possible.&lt;/span&gt;
+&lt;/p&gt;
+
+&lt;hr /&gt;
+</content>
+  </entry>
+</feed>
